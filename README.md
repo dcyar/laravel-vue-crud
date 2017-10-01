@@ -6,7 +6,7 @@ A simple CRUD with:
 - Axios
 - Bulma css
 
-## Instalatión
+## Installation
 Clone this repository
 > ``` git clone https://github.com/dcyar/laravel-vue-crud ```
 
